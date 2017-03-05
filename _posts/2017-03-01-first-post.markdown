@@ -51,7 +51,7 @@ Finally, when the last piece of evidence (Professor Horace Slughorn’s memory) 
 all dots were connected and he discovered Lord Vodemont’s darkest secret -- Horcruxes. 
 One man’s memory is another man’s observation. Well, Albus may just inspire a new research topic on cross operations on multiple RNNs. 
 
-![alt](../images/Dumbledore-memory.jpg)
+![alt](https://xuehanxiongsc.github.io/images/Dumbledore-memory.jpg)
 
 Disk (or paper if you prefer the old fashion way) is the extension of your memory that makes you a true Turing machine. 
 Be patient and your “Horace Slughorn’s piece” will eventually arrive to assist you on whatever difficult problems you are working on 
