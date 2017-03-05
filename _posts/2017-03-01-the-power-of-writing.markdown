@@ -44,14 +44,14 @@ and combine with recent observation to generate new thoughts. However, such stru
 trained end-to-end since disk operations are not differentiable. Life-long learning modeled as 
 RNNs could be an interesting research topic for decades to come. 
 
-Let us end this post in a fun note. The great wizard [Albus Dumbledore]( https://en.wikipedia.org/wiki/Albus_Dumbledore) is a master of memory extraction spell.
+Let me end this post in a fun note. The great wizard [Albus Dumbledore]( https://en.wikipedia.org/wiki/Albus_Dumbledore) is a master of memory extraction spell.
 Over the years, he repeated extracting important memories into a flask, 
 and reviewing them in a [Pensieve](http://harrypotter.wikia.com/wiki/Pensieve) when new information present themselves. 
 Finally, when the last piece of evidence (Professor Horace Slughorn’s memory) was found, 
 all dots were connected and he discovered Lord Vodemont’s darkest secret -- Horcruxes. 
 One man’s memory is another man’s observation. Well, Albus may just inspire a new research topic on cross operations on multiple RNNs. 
 
-![alt](https://xuehanxiongsc.github.io/images/Dumbledore-memory.jpg)
+<p style="text-align:center"><img src="https://xuehanxiongsc.github.io/images/Dumbledore-memory.jpg" alt="Dumbledore" style="width: 50%"/></p>
 
 Disk (or paper if you prefer the old fashion way) is the extension of your memory that makes you a true Turing machine. 
 Be patient and your “Horace Slughorn’s piece” will eventually arrive to assist you on whatever difficult problems you are working on 
